@@ -1,3 +1,3 @@
-# angular-6-tree-shakeable-service
+# angular-tree-shakeable-service
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-6-tree-shakeable-service)
+This respository contains an example for the Angular Regime Series on Medium
